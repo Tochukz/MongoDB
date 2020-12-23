@@ -1,0 +1,5 @@
+{ "_id" : { "$oid" : "5eb4fac435f508b23a98a9ad" }, "id" : 1, "username" : "James79", "email" : "james@yahoo.com" }
+{ "_id" : { "$oid" : "5eb4fac435f508b23a98a9af" }, "id" : 2, "username" : "Voltrex", "email" : "volt@gmail.com" }
+{ "_id" : { "$oid" : "5eb4fac435f508b23a98a9b1" }, "id" : 3, "username" : "OseniP", "email" : "oseni@hotmail.com" }
+{ "_id" : { "$oid" : "5eb4fac435f508b23a98a9b3" }, "id" : 4, "username" : "Petete", "email" : "pete@pete.co.za" }
+{ "_id" : { "$oid" : "5eb4fac435f508b23a98a9b5" }, "id" : 5, "username" : "Laku", "email" : "laku.mata@outlook.com" }
